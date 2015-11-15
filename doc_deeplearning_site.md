@@ -50,3 +50,11 @@ Caffe에 대한 간략한 튜토리얼 및 GoogLeNet 개괄 등등, Deep learnin
 CVPR 2015에서 열렸던 워크샵 사이트 입니다.
 
   * [사이트 링크](http://www.deep-vision.net)
+
+### Neural Networks and Deep Learning
+인공 신경망의 기초부터 Convolutional Neural Networks까지 다룹니다. 실제 코드와 함께 아주 자세한 설명으로
+이해하기 쉽게 구성되어 있습니다. 인공신경망의 기본적인 원리부터 다루고 있어 처음 딥러닝을 시작하기에 좋습니다.
+
+  * [사이트 링크](http://neuralnetworksanddeeplearning.com/)
+  * 저자: [Michael Nielsen](http://michaelnielsen.org/) 
+
